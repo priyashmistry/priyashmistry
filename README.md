@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyashkumar Mistry, one can simply call me Priyash.
-- 👀 I’m interested in Astrophysics and related programing
+- 👀 I’m interested in Exoplanets, Observational and Computational Astrophysics.
 - 🌱 I’m currently learning some python packages used in Exoplanet data analysis.
 - 💞️ I’m looking to collaborate on detection and analysis of Exoplanets.
 - 📫 E-mail : priyashmistry10@gmail.com / i17ph033@phy.svnit.ac.in
